@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285778411638@s.whatsapp.net","6281291155341@s.whatsapp.net"],
+    "ownerName": "R么ffurıツ᭄ ",
+    "instagram" : "https://instagram.com/raffuri",
+    "botName": "タRʏᴜᴜᴢxʏあ",
+    "footer": "ryuuzxybot/sewa.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 99,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 10000,
+        "user": 15
+    }
+}
